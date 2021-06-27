@@ -18,6 +18,6 @@ Estou no ultimo ano do curso técnico em informática 🤙
 - [ ] Node.js
 
 
-📫 Como chegar até mim:
+🔭 Como chegar até mim:
 
-[![Instagram Badge](https://img.shields.io/badge/-osaviodamasceno-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF449F&link=https://www.instagram.com/osaviodamasceno/)](https://www.instagram.com/osaviodamasceno/)
+[![Instagram Badge](https://img.shields.io/badge/-osaviodamasceno-525252?style=flat&logo=Instagram&logoColor=14FFEC&link=https://www.instagram.com/osaviodamasceno/)](https://www.instagram.com/osaviodamasceno/)
