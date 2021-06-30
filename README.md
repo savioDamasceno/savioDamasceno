@@ -20,4 +20,4 @@ Estou no ultimo ano do curso técnico em informática 🤙
 
 🔭 Como chegar até mim:
 
-[![Instagram Badge](https://img.shields.io/badge/-osaviodamasceno-232931?style=flat&logo=Instagram&logoColor=FF449F&link=https://www.instagram.com/osaviodamasceno/)](https://www.instagram.com/osaviodamasceno/)
+[![Instagram Badge](https://img.shields.io/badge/-osaviodamasceno-232931?style=flat&logo=Instagram&logoColor=393E46&link=https://www.instagram.com/osaviodamasceno/)](https://www.instagram.com/osaviodamasceno/)
