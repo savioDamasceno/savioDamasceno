@@ -9,8 +9,11 @@ Estou no ultimo ano do curso técnico em informática 🤙
 
 🧠 Possuo Conhecimento em:
 
-- [x] HTML5 - [x] CSS3 - [x] JAVASCRIPT
-- [x] PHP   - [x] SQL
+- [x] HTML5 
+- [x] CSS3 
+- [x] JAVASCRIPT
+- [x] PHP   
+- [x] SQL
 
 
 🌱 Atualmente estou aprendendo:
