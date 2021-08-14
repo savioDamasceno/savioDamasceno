@@ -12,7 +12,8 @@ Estou no ultimo ano do curso técnico em informática 🤙
 - [x] HTML5
 - [x] CSS3
 - [x] JAVASCRIPT
-- [x] PHP
+- [x] PHP 
+- [x] SQL
 
 
 🌱 Atualmente estou aprendendo:
