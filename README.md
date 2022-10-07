@@ -1,13 +1,13 @@
 
-# 👋 Oi, eu sou o sávio.
-
+<h2>👋 Oi, eu sou o sávio.</h2>
+#
 <br>
 
-✨ | Desenvolvedor Front-end com Reactjs.
+✨ - Desenvolvedor Front-end com Reactjs.
 
-😍 | Entusiasta do Ui Design com Figma.
+😍 - Entusiasta do Ui Design com Figma.
 
-❤️ | Utilizo as tecnologias: 
+❤️ - Utilizo as tecnologias: 
 
 - HTML  
 - CSS  
