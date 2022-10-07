@@ -5,7 +5,7 @@
  
 <br>
 
-#### 📜 Sobre mim
+#### 📜 **Sobre mim:**
 <br>
 
 ✨ - Desenvolvedor Front-end com Reactjs.
