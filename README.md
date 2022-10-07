@@ -1,7 +1,6 @@
 
-## 👋 Oi, eu sou o sávio.
+# 👋 Oi, eu sou o sávio.
 
-<br>
 <br>
 
 ✨ | Desenvolvedor Front-end com Reactjs.
