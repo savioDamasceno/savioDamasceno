@@ -8,7 +8,6 @@
 #### 📜 Sobre mim
 <br>
 
-
 ✨ - Desenvolvedor Front-end com Reactjs.
 
 😍 - Entusiasta do Ui Design com Figma.
@@ -27,7 +26,7 @@
 
 #
 
-#### 📌 Vamos nos conectar:
+#### 🔗 Vamos nos conectar:
 
 <div> 
  <a href="https://www.instagram.com/osaviodamasceno/" target="_blank">
