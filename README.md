@@ -6,11 +6,10 @@
 <br>
 
 #### 📜 **Sobre mim:**
-<br>
 
 ✨ - Desenvolvedor Front-end com Reactjs.
 
-😍 - Entusiasta do Ui Design com Figma.
+😍 - Ui Design com Figma.
 
 ❤️ - Utilizo as tecnologias: 
 
