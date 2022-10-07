@@ -5,8 +5,6 @@
  
 <br>
 
-#### 📜 **Sobre mim:**
-
 ✨ - Desenvolvedor Front-end com Reactjs.
 
 😍 - Ui Design com Figma.
